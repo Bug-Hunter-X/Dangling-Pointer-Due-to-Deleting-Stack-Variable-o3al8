@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; // No delete operation needed for stack variables; return 0; }
